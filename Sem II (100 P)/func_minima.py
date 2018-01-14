@@ -81,7 +81,12 @@ for i in range(1, 1 + NUM_CASES):
     inp = "\n".join(map(str, [a, b, c, L, R]))
     out = func_minima(a, b, c, L, R)
 
-    print(TEST_CASE_FORMAT % (case, inp, str(out)))
+    if isinstance(out, int):
+        out = "%d" % out
+    elif isinstance(out, float):
+        out = "%.2f" % out
+
+    print(TEST_CASE_FORMAT % (case, inp, out))
 
     case += 1
 
@@ -94,6 +99,12 @@ for i in range(1, 1 + NUM_CASES):
 # L = -5
 # R = 5
 
+# a = 16
+# b = 4
+# c = -16
+# L = 13
+# R = 19
+
 # print(qq_root(a, b, c))
-# print(q(a, b, c, -5))
+# print(q(a, b, c, 13))
 # print(func_minima(a, b, c, L, R))
