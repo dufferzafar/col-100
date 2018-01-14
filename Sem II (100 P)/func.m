@@ -1,0 +1,5 @@
+a = input('a: ', 's')
+b = input('b: ', 's')
+c = input('c: ', 's')
+L = input('L: ', 's')
+R = input('R: ', 's')
