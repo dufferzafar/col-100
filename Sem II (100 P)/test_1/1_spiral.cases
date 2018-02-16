@@ -1,0 +1,100 @@
+
+case = Test 1
+input = 5
+output = /.*101.*/
+
+
+case = Test 2
+input = 4
+output = /.*-1.*/
+
+
+case = Test 3
+input = 15
+output = /.*2381.*/
+
+
+case = Test 4
+input = 23
+output = /.*8405.*/
+
+
+case = Test 5
+input = 41
+output = /.*46841.*/
+
+
+case = Test 6
+input = 27
+output = /.*13521.*/
+
+
+case = Test 7
+input = 77
+output = /.*307421.*/
+
+
+case = Test 8
+input = 63
+output = /.*168765.*/
+
+
+case = Test 9
+input = 83
+output = /.*384745.*/
+
+
+case = Test 10
+input = 73
+output = /.*262105.*/
+
+
+case = Test 11
+input = 9
+output = /.*537.*/
+
+
+case = Test 12
+input = 17
+output = /.*3441.*/
+
+
+case = Test 13
+input = 71
+output = /.*241221.*/
+
+
+case = Test 14
+input = 49
+output = /.*79697.*/
+
+
+case = Test 15
+input = 95
+output = /.*576221.*/
+
+
+case = Test 16
+input = 51
+output = /.*89801.*/
+
+
+case = Test 17
+input = 33
+output = /.*24545.*/
+
+
+case = Test 18
+input = 79
+output = /.*331917.*/
+
+
+case = Test 19
+input = 11
+output = /.*961.*/
+
+
+case = Test 20
+input = 50
+output = /.*-1.*/
+
