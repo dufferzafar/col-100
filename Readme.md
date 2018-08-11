@@ -5,14 +5,15 @@ Teaching assistant related programs. IIT Delhi, 2017 - 2019.
 
 ### Courses
 
+|               |                                                       |
 |---------------|-------------------------------------------------------|
 | fall-2017     | COL 100 under Prof. Vinay Ribeiro & Prof. Rahul Garg  |
 | spring-2018   | COL 100 under Prof. Kolin Paul                        |
-|---------------|-------------------------------------------------------|
+
 
 ### Others
 
-**[@hthuwal]**(https://github.com/hthuwal/)'s similar repo: https://github.com/hthuwal/ta-iitd
+[**@hthuwal**](https://github.com/hthuwal/)'s similar repo: https://github.com/hthuwal/ta-iitd
 
 
 ## Moodle / VPL Links
